@@ -1,1 +1,2 @@
 lfedge/ekuiper:latest
+emqx/nanomq:latest-full
