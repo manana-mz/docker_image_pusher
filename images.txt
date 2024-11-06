@@ -1,3 +1,3 @@
 lfedge/ekuiper:latest
 emqx/nanomq:0.23-full
-
+emqx/emqx:5.8.1
