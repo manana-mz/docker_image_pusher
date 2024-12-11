@@ -1,4 +1,4 @@
 lfedge/ekuiper:latest
 emqx/nanomq:0.23-full
 emqx/emqx:5.8.1
-emqx/ekuiper-manager:1.8
+emqx/ekuiper-manager:latest
