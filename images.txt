@@ -4,3 +4,4 @@ emqx/emqx:5.8.1
 emqx/ekuiper-manager:latest
 mysql:5.7
 emqx/neuronex:3.4.3
+tdengine/tdengine:3.2.10
