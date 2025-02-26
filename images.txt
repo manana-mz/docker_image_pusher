@@ -6,3 +6,4 @@ mysql:5.7
 emqx/neuronex:3.4.3
 tdengine/tdengine:3.3.3.0
 mysql:5.7.43
+tdengine/tdengine:3.2.1.0
