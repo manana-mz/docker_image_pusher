@@ -1,4 +1,4 @@
-lfedge/ekuiper:v2.0.4-dev
+lfedge/ekuiper:v2.0.6-full
 emqx/nanomq:0.23-full
 emqx/emqx:5.8.1
 emqx/ekuiper-manager:latest
