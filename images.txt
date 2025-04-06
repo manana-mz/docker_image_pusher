@@ -8,3 +8,4 @@ tdengine/tdengine:3.3.3.0
 mysql:5.7.43
 tdengine/tdengine:3.2.1.0
 redis:7.2.2
+nginx:1.27
