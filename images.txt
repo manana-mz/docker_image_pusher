@@ -1,6 +1,6 @@
 lfedge/ekuiper:v2.0.6-full
 emqx/nanomq:0.23-full
-emqx/emqx:5.8.1
+emqx/emqx:5.6.1
 emqx/ekuiper-manager:latest
 mysql:5.7
 emqx/neuronex:3.4.3
