@@ -11,4 +11,3 @@ redis:7.2.2
 nginx:1.27
 clamav/clamav:1.4
 osixia/keepalived:latest
-liaosnet/gbase8s:v8.8_3633x31_csdk_x64
